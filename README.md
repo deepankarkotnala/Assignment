@@ -30,5 +30,6 @@ Below are the instructions to run the python script:
 
 3. Run the below command (Do not change the sequence of data file names):
 
-  python assignment_deepankar.py customer_features.csv last_month_assortment.csv next_month_assortment.csv next_purchase_order.csv original_purchase_order.csv product_features.csv
+python assignment_deepankar.py customer_features.csv last_month_assortment.csv next_month_assortment.csv next_purchase_order.csv original_purchase_order.csv product_features.csv
+  
 -------------------------------------------------------------------------------------------
