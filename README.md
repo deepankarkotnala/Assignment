@@ -4,9 +4,9 @@ Assume we are a mail-delivery book startup. You fill out a profile with us about
 
 As a company we have to buy our books ahead of time. We took out a loan last month to buy our original batch of books. The value of the loan was the total cost of all the books that we bought. We made some money back through customers buying our books last month. Next month, we know which books we will be sending to which customers, but we do not know who will buy what books. It costs 0.60/book each way for shipping books to and from customers. The question for you to answer is:
 
-### Will we be able to both pay back our loan and afford our next book purchase order?
+#### Will we be able to both pay back our loan and afford our next book purchase order?
 
-### Data
+## Data
 We've provided some data for you to help answer this question. All of the following are csv files.
 1. original_purchase_order: Quantity of books originally purchased indexed by a unique product ID.
 2. next_purchase_order: Planned quantity of books to purchase at the end of next month indexed by a unique product ID.
