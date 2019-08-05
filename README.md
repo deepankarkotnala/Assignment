@@ -1,4 +1,4 @@
-# Mail-delivery-Book-Startup-Project
+# Mail-delivery Book Startup Project
 
 Assume we are a mail-delivery book startup. You fill out a profile with us about your book preferences, and we will send you 5 books each month for free. Whatever you like you keep and pay for, and whatever you don't like you send back.
 
