@@ -15,11 +15,9 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
-# from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, classification_report
 from sklearn.linear_model import LogisticRegression
 from xgboost import XGBClassifier
-# from sklearn.svm import SVC
-# from sklearn.model_selection import GridSearchCV
+
 
 warnings.filterwarnings('ignore')
 np.random.seed(8)
